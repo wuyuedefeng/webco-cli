@@ -1,0 +1,14 @@
+{
+  "host": "http://ossproxy.itrydo.com",
+  "component": {
+    "local": {
+      "global": {
+        "VmButton": "co-dist/1d7m4k3llri1/px/button.8e04b20.js"
+      },
+      "lazy": {
+      }
+    },
+    "remote": {
+    }
+  }
+}
